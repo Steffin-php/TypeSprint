@@ -1,0 +1,6 @@
+{
+  "name": "TypeSprint",
+  "description": "A minimal typing speed test with real-time stats, difficulty modes, WPM progression graph, and sound feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
